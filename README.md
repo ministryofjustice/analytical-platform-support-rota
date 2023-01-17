@@ -32,7 +32,7 @@ Update the `settings.py` file where there are three dictionaries containing:
 
 Login credentials for the moj.data.engineering.dev@gmail.com account which has the Google Calendar API enabled are stored in LastPass. Have these ready for the next step.
 
-`cd` into the `data_engineering_support_rota/` directory and run:
+`cd` into the `analytical_platform_support_rota/` directory and run:
 
 ```
 python generate_rota.py
@@ -45,7 +45,7 @@ A browser window will open and you'll have to accept the access request, you wil
 
 If you have modified the `support_team` dictionary in `settings.py` you should also add or remove the same team members email addresses from the Support Rota Google calendar by going to the 'Share with specific people` section in the calendar settings.
 
-The Google Calendar for Teams Events Slack integration is used to post reminders of who is on support that day to the [#data_engineering](https://mojdt.slack.com/archives/CBVUV2613) team's channel. The configuration can be found, [here](https://mojdt.slack.com/services/1905620543633).
+The Google Calendar for Teams Events Slack integration is used to post reminders of who is on support that day to the [#analytical_platform](https://mojdt.slack.com/archives/CBVUV2613) team's channel. The configuration can be found, [here](https://mojdt.slack.com/services/4654101349667).
 
 See the [data engineering Confluence space](https://dsdmoj.atlassian.net/l/cp/hBVj3UsV) for more details about support.
 
