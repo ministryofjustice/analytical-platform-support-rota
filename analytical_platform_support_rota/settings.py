@@ -18,7 +18,6 @@ support_team = {
         "John",
         "Julia",
         "Richard",
-        "Ross",
         "Yikang",
     ],
     "list_2": [
@@ -32,6 +31,6 @@ support_team = {
 
 
 date_range = {
-    "start_date": "2023-01-18",
-    "n_cycles": 1,
+    "start_date": "2023-02-02",
+    "n_cycles": 8,
 }
