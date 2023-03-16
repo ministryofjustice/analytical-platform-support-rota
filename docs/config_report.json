@@ -1,1 +1,1 @@
-{"date_range": {"start": "2023-02-02", "end": "2023-05-24", "n_cyles": 8, "total_days": 80}, "calendar": {"env": "prod", "id": "c_c1d6ed6c01045fa38a1e777576e0623c6b1bd38361fcd75e78d75d0f1ecccc58@group.calendar.google.com"}}
+{"date_range": {"start": "2023-03-22", "end": "2023-11-28", "n_cyles": 20, "total_days": 180}, "calendar": {"env": "prod", "id": "c_c1d6ed6c01045fa38a1e777576e0623c6b1bd38361fcd75e78d75d0f1ecccc58@group.calendar.google.com"}}

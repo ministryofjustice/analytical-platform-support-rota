@@ -12,7 +12,7 @@ google_calendar_api = {
 }
 
 support_team = {
-    "start_cycle_with": "list_2",
+    "start_cycle_with": "list_1",
     "list_1": [
         "Abdel",
         "John",
@@ -21,7 +21,6 @@ support_team = {
         "Yikang",
     ],
     "list_2": [
-        "Andy",
         "Bogdan",
         "Brian",
         "Louise",
@@ -31,6 +30,6 @@ support_team = {
 
 
 date_range = {
-    "start_date": "2023-02-02",
-    "n_cycles": 8,
+    "start_date": "2023-03-22",
+    "n_cycles": 20,
 }
